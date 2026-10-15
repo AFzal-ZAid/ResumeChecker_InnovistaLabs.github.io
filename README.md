@@ -2,8 +2,6 @@
 
 Matchly tailors a resume to a specific job description using Google Gemini. Paste a job description, upload a resume (PDF or DOCX), and get a rewritten resume with a match score, an ATS score, and the keywords the resume is missing. The result can be viewed on screen and downloaded as PDF or plain text.
 
-- **Live demo:** `<add your deployed frontend URL here>`
-- **Backend API:** `<add your deployed backend URL here>`
 - **Author:** Md Afzal
 
 ---
@@ -11,7 +9,6 @@ Matchly tailors a resume to a specific job description using Google Gemini. Past
 ## Table of contents
 
 1. [Features](#features)
-2. [Screenshots](#screenshots)
 3. [Tech stack](#tech-stack)
 4. [How it works](#how-it-works)
 5. [Architecture](#architecture)
